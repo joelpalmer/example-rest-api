@@ -1,1 +1,1 @@
-Just a sample REST API with expressjs
+A sample REST API with expressjs
